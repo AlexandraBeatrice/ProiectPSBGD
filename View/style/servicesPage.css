@@ -78,14 +78,14 @@ body {
     margin-top: 3%;
 }
 
-.services, .contactUs, .appointment, .homePage {
+.services, .contactUs, .homePage {
     width: 150px;
     height: 150px;
     border-radius: 50%;
     line-height: 100px;
     text-align: center;
     background: #FE8409;
-    margin-right: 10%;
+    margin-right: 20%;
 }
 
 .sendOnAPage a {
@@ -94,6 +94,6 @@ body {
     color: #fff;
 }
 
-.services:hover, .contactUs:hover, .appointment:hover, .homePage:hover {
+.services:hover, .contactUs:hover, .homePage:hover {
     background: #FE5E01;
 }
